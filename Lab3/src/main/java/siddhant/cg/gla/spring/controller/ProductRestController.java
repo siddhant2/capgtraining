@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import deepak.cg.gla.spring.entity.Product;
-import deepak.cg.gla.spring.service.ProductService;
+import siddhant .cg.gla.spring.entity.Product;
+import siddhant.cg.gla.spring.service.ProductService;
 
 @RestController
 public class ProductRestController {
