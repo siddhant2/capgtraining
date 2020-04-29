@@ -1,4 +1,4 @@
-package deepak.cg.gla.spring.dao;
+package siddhant.cg.gla.spring.dao;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;
