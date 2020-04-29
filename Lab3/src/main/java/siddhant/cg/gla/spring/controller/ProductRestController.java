@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import siddhant .cg.gla.spring.entity.Product;
+import siddhant.cg.gla.spring.entity.Product;
 import siddhant.cg.gla.spring.service.ProductService;
 
 @RestController
