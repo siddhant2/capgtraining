@@ -3,7 +3,7 @@ package siddhant.cg.gla.spring.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import deepak.cg.gla.spring.entity.Product;
+import siddhant.cg.gla.spring.entity.Product;
 
 
 
