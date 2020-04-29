@@ -1,4 +1,4 @@
-package deepak.cg.gla.spring.controller;
+package siddhant.cg.gla.spring.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
