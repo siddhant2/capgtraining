@@ -7,8 +7,8 @@ import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import deepak.cg.gla.spring.dao.ProductDao;
-import deepak.cg.gla.spring.entity.Product;
+import siddhant.cg.gla.spring.dao.ProductDao;
+import siddhant.cg.gla.spring.entity.Product;
 
 @Service
 
