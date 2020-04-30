@@ -1,4 +1,4 @@
-package vinay.cg.gla.spring.dao;
+package siddhant.cg.gla.spring.dao;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import javax.transaction.Transactional;
 
 import org.springframework.stereotype.Repository;
 
-import vinay.cg.gla.spring.entity.Product;
-import vinay.cg.gla.spring.entity.ProductOld;
+import siddhant.cg.gla.spring.entity.Product;
+import siddhant.cg.gla.spring.entity.ProductOld;
 
 @Transactional
 @Repository
