@@ -1,4 +1,4 @@
-package vinay.cg.gla.spring.exception;
+package siddhant.cg.gla.spring.exception;
 
 
 	
