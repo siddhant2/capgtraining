@@ -1,4 +1,4 @@
-package vinay.cg.gla.spring.controller;
+package siddhant.cg.gla.spring.controller;
 
 import java.util.List;
 
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
-import vinay.cg.gla.spring.entity.Product;
-import vinay.cg.gla.spring.entity.ProductOld;
-import vinay.cg.gla.spring.service.ProductService;
+import siddhant.cg.gla.spring.entity.Product;
+import siddhant.cg.gla.spring.entity.ProductOld;
+import siddhant.cg.gla.spring.service.ProductService;
 
 @RestController
 public class ProductRestController {
