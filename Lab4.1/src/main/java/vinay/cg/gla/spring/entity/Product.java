@@ -1,4 +1,4 @@
-package vinay.cg.gla.spring.entity;
+package siddhant.cg.gla.spring.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
