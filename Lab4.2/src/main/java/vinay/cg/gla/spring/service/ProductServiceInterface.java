@@ -1,9 +1,9 @@
-package vinay.cg.gla.spring.service;
+package siddhant.cg.gla.spring.service;
 
 import java.util.List;
 
-import vinay.cg.gla.spring.entity.Product;
-import vinay.cg.gla.spring.entity.ProductOld;
+import siddhant.cg.gla.spring.entity.Product;
+import siddhant.cg.gla.spring.entity.ProductOld;
 
 
 public interface ProductServiceInterface {
